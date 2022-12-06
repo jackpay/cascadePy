@@ -32,6 +32,10 @@ If you intend to use this toolit, please use the following citation:
 
 ## Installing the SFPD
 1) Clone the repository found [here](https://github.com/andehr/sfpd) (citing where necessary).
+2) Follow the necessary installation instructions.
+
+## Usage
+The toolkit is primarily a library or programming API for others to develop their own corpus expansion pipelines and methodologies. However, a brief breakdown of each module can be found in the accompanying Wiki. 
 
 
 
