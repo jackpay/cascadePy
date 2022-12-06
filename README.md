@@ -1,3 +1,5 @@
+
+
 # cascadePy
 A corpus expansion toolkit written in Python.
 
@@ -11,5 +13,16 @@ This work is an expansion on the original work that can be found [here](http://s
 
 The installation instructions for the toolkit can be found below and a brief summary of each module can be found in the accompanying Wiki. 
 
-#Installation instructions
+# Installation instructions
+
+## Prerequisites
+1) It is recommended that your Python environment is >=3.8
+2) Is is also recommended to use a data-science focused Python environment, such as [Anaconda](https://www.anaconda.com/).
+
+## Installation
+1) Clone the repository to your local machine
+2) run ```python setup.py install```
+
+
+
 
