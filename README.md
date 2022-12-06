@@ -13,6 +13,10 @@ This work is an expansion on the original work that can be found [here](http://s
 
 The installation instructions for the toolkit can be found below and a brief summary of each module can be found in the accompanying Wiki. 
 
+# Citing this work
+If you intend to use this toolit, please use the following citation:
+
+
 # Installation instructions
 
 ## Prerequisites
@@ -22,6 +26,13 @@ The installation instructions for the toolkit can be found below and a brief sum
 ## Installation
 1) Clone the repository to your local machine
 2) run ```python setup.py install```
+3) Install any relevant spaCy models you require. For example, for English run the following command:
+```python -m spacy download en```
+3) Follow the below instructions to install the Surprising Phrase Detector (SFPD)
+
+## Installing the SFPD
+1) Clone the repository found [here](https://github.com/andehr/sfpd) (citing where necessary).
+
 
 
 
