@@ -17,6 +17,19 @@ The installation instructions for the toolkit can be found below and a brief sum
 If you intend to use this toolit, please use the following citation:
 
 
+
+In bibtex:
+```
+@phdthesis{pay2020corpusexpansion,
+           title = {The Corpus Expansion Toolkit: finding what we want on the web},
+          author = {Jack Frederick Pay},
+            year = {2020},
+          school = {University of Sussex},
+             url = {http://sro.sussex.ac.uk/id/eprint/93062/},
+}
+```
+
+
 # Installation instructions
 
 ## Prerequisites
