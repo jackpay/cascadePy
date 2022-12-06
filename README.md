@@ -1,7 +1,7 @@
 
 
 # cascadePy
-A corpus expansion toolkit written in Python.
+cascadePy (CaPy) is a corpus expansion toolkit written in Python.
 
 cascadePy is a Python toolkit developed by [Centre for the Analysis of Social Media (CASM) Technology](https://www.casmtechnology.com/) in collaboration with the [Global Initiative against Transnational Organised Crime (GITOC)](https://globalinitiative.net/).
 
