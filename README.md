@@ -44,6 +44,8 @@ In bibtex:
 3) Follow the below instructions to install the Surprising Phrase Detector (SFPD)
 
 ## Installing the SFPD
+> Robertson, Andrew David, 2019. Characterising semantically coherent classes of text through feature discovery (Doctoral thesis, University of Sussex).
+> 
 1) Clone the repository found [here](https://github.com/andehr/sfpd) (citing where necessary).
 2) Follow the necessary installation instructions.
 
