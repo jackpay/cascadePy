@@ -1,5 +1,6 @@
 
-![alt text](https://github.com/jackpay/cascadePy/blob/master/markdown/images/CASM_LOGO_COLOUR.png "CASM LLP")
+
+<img src="https://github.com/jackpay/cascadePy/blob/master/markdown/images/CASM_LOGO_COLOUR.png" width=300/>
 
 # cascadePy
 cascadePy (CaPy) is a corpus expansion toolkit written in Python.
