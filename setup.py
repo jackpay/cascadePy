@@ -1,0 +1,47 @@
+from setuptools import setup
+
+setup(
+    name='CascadePy',
+    version='0.1',
+    packages=['nlp', 'websearch', 'deep_learning', 'google_sheets', 'keyword_extraction', 'topic_modelling',
+              'webcrawlingscraping', 'webcrawlingscraping.scraping.trafilatura',
+              'webcrawlingscraping.scraping.basic_scraper.basic_scraper',
+              'webcrawlingscraping.scraping.basic_scraper.basic_scraper.spiders'],
+    url='https://www.casmtechnology.com/',
+    license='GPL-3.0-only',
+    author='drjackpay',
+    author_email='jackp@casmtechnology.com',
+    description='Cascade toolkit for web-corpus expansion',
+    install_requires = [
+           "transformers>=4.9.2",
+           "scikit-learn>=1.0.2",
+           "spacy>=3.0.7",
+           "pandas>=1.3.3",
+           "sentence_transformers>=2.1.0",
+           "torch>=1.5.1",
+           "nltk>=3.7",
+           "pygsheets>=2.0.5",
+           "rake_nltk>=1.0.4",
+           "gensim>=3.8.3",
+           "yake>=0.4.8",
+           "spacy>=3.0.7",
+           "keybert>=0.5.0",
+           "boilerpipe3>=1.1",
+           "bs4>=0.0.1",
+           "scrapy==2.3.0",
+           "requests>=2.28.1",
+           "selenium>=3.141.0",
+           "selenium-screenshot==1.7.0",
+           "lenskit==0.14.2",
+           "seedbank==0.1.2",
+           "numpy>=1.19.2",
+           "smart-open==5.2.1",
+           "biterm==0.1.5",
+           "pyldavis==2.1.2",
+           "pyopenssl==22.0.0"
+   ],
+   classifiers = [
+         "Programming Language :: Python :: 3",
+         "Operating System :: OS Independent",
+    ]
+)
