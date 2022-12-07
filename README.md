@@ -9,7 +9,7 @@ cascadePy is a Python toolkit developed by [Centre for the Analysis of Social Me
 
 cascadePy combines a number of NLP, information-extraction and web-collection methods to provide a set of tools primarily for use in open-source intelligence (OSINT) efforts against the illicit online wildlife trade.
 
-The intended use of cascadePy is to discover, chracterise and expand the vernacular used by those in the trade of illegal wildlife and identify the places they are use on the web.
+The intended use of cascadePy is to discover, chracterise and expand the vernacular used by those complicit in the illicit wildlife trade, and identify the places they advertise on the web.
 
 This work is an expansion on the original work that can be found [here](http://sro.sussex.ac.uk/id/eprint/93062/).
 
