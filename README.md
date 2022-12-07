@@ -16,7 +16,7 @@ This work is an expansion on the original work that can be found [here](http://s
 The installation instructions for the toolkit can be found below and a brief summary of each module can be found in the accompanying Wiki. 
 
 # Citing this work
-If you intend to use this toolit, please use the following citation:
+If you intend to use this toolkit, please use the following citation:
 
 > Pay, Jack Frederick, 2020. The Corpus Expansion Toolkit: finding what we want on the web (Doctoral thesis, University of Sussex).
 
