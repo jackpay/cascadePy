@@ -1,8 +1,8 @@
+<p align="center">
+           <img src="https://github.com/jackpay/cascadePy/blob/master/markdown/images/CASM_LOGO_COLOUR.png"  width=300 />
+           <img src="https://github.com/jackpay/cascadePy/blob/master/markdown/images/gitoc-logo.png"  width=150 />
+</p> 
 
-<p float="left">
-           <img src="https://github.com/jackpay/cascadePy/blob/master/markdown/images/CASM_LOGO_COLOUR.png" width=300/>
-           <img src="https://github.com/jackpay/cascadePy/blob/master/markdown/images/CASM_LOGO_COLOUR.png" width=300/>
-</p>
 # cascadePy
 cascadePy (CaPy) is a corpus expansion toolkit written in Python.
 
