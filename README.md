@@ -5,7 +5,7 @@
 # cascadePy
 cascadePy (CaPy) is a corpus expansion toolkit written in Python.
 
-cascadePy is a Python toolkit developed by [Centre for the Analysis of Social Media (CASM) Technology](https://www.casmtechnology.com/) in collaboration with the [Global Initiative against Transnational Organised Crime (GITOC)](https://globalinitiative.net/).
+cascadePy is a Python toolkit developed by [Centre for the Analysis of Social Media (CASM) Technology LLP](https://www.casmtechnology.com/) in collaboration with the [Global Initiative against Transnational Organised Crime (GITOC)](https://globalinitiative.net/).
 
 cascadePy is combines a number of NLP, information-extraction and web-collection methods to provide a set of tools primarily for use in open-source intelligence (OSINT) efforts against the illicit online wildlife trade.
 
