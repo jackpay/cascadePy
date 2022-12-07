@@ -57,7 +57,8 @@ The toolkit is primarily a library or programming API for others to develop thei
 ## How to contribute
 Please feel free to raise any issues found when using this toolkit, create pull requests or create discussion threads.
 
-
+## Liability
+Neither CASM LLP or GITOC accept any liability for the misuse of any of the tools provided in this library. 
 
 
 
