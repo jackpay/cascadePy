@@ -52,6 +52,10 @@ In bibtex:
 ## Usage
 The toolkit is primarily a library or programming API for others to develop their own corpus expansion pipelines and methodologies. However, a brief breakdown of each module can be found in the accompanying Wiki. 
 
+## How to contribute
+Please feel free to raise any issues found when using this toolkit, create pull requests or create discussion threads.
+
+
 
 
 
